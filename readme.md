@@ -1,4 +1,3 @@
-
 ---
 title: "Inertialsensor"
 date: "2018-10-01T13:25:56.000Z"

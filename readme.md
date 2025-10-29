@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-Adafruit-Adafruit_ICM-20948.
 repo_prefix: "mks"
 repo_part: "Adafruit_ICM-20948"
 embedded_example_file: "examples/Adafruit_ICM-20948_minimal/Adafruit_ICM-20948_minimal.ino"
-title: 'Inertialsensor'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
